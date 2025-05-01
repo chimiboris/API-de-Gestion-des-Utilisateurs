@@ -12,6 +12,7 @@
 ## 🚀 Commande pour le lancement de l'application
 ```bash
 mvn spring-boot:run
+ou utilisez le bouton "run" de votre IDE comme intellij
 
 ## 🚀 url pour tester l'application sur swagger
 👉 http://localhost:8082/swagger-ui.html
